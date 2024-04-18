@@ -6,7 +6,13 @@ import Home from './pages/Home';
 
 function App() {
   return (
+    <>
     <Home/>
+    <div>
+      Test
+    </div>
+    </>
+    
   //   <Routes>
   //     <Route path="/" element={<CardList/>} />
   //     <Route path="/card/:id" element={<CardDetails/>} />
